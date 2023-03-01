@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "RainbowLabs Cloud"
 themesDir = "themes"
 theme = "hero"
 
@@ -13,24 +13,21 @@ theme = "hero"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "favicon.png"
     mobile_height = "36px"
-    mobile_width = "36px"
-    desktop = "images/logo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
-    alt = "Hugo Hero"
+    mobile_width = "240px"
+    desktop = "header_logo.png"
+    desktop_height = "64px"
+    desktop_width = "240px"
+    alt = "RainbowLabs"
 
   [params.homepage_meta_tags]
-    meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_description = "RainbowLabs is a company that specializes in cloud-connected light installations."
+    meta_og_title = "RainbowLabs Cloud"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_url = "https://cloud.rainbowlabs.de"
+    meta_og_image = "https://cloud.rainbowlabs.de/favicon.png"
+    meta_og_description = "RainbowLabs is a company that specializes in cloud-connected light installations."
 
 [[menu.main]]
 	name = "Services"
@@ -38,24 +35,9 @@ theme = "hero"
     weight = 1
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
-
-[[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 2
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
