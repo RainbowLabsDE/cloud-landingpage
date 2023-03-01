@@ -7,7 +7,7 @@ featured: true
 weight: 6
 heroHeading: 'Remote Monitoring and Maintenance'
 heroSubHeading: 'Ensuring your light installations stay up and running 24/7'
-heroBackground: 'images/pexels-karolina-grabowska-4021779.jpg'
+heroBackground: 'images/pexels-alphatradezone-5833760.jpg'
 ---
 
 At RainbowLabs, we understand how important it is for businesses to have their lighting systems running smoothly and reliably at all times. That's why we offer remote monitoring and maintenance services to ensure that your installations are always functioning optimally.

@@ -29,16 +29,6 @@ At RainbowLabs, we have a wide range of capabilities when it comes to custom-des
 - Interactive lighting installations that engage your guests and create memorable experiences
 - Custom gobos and projections that can incorporate branding or other visual elements into your event
 
-### Examples of Our Work
-
-Take a look at some of our past projects to see what we can do:
-
-- Concert lighting for a major music festival
-- Wedding lighting that created a romantic and intimate atmosphere
-- Corporate event lighting that incorporated the company's branding and messaging
-- Outdoor lighting for a public art installation
-- Interactive lighting installation for a museum exhibit
-
 ### Contact Us
 
 Ready to take your event or live performance to the next level with custom-designed lighting solutions? Contact us today to get started. We'll work closely with you to understand your vision and bring it to life with stunning lighting effects that will leave a lasting impression on your guests.

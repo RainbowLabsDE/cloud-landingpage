@@ -21,4 +21,4 @@ Our consultation and design services include:
 - Installation supervision: We work with contractors and electricians to ensure proper installation and functioning of the lighting system.
 - Compliance with regulations: We ensure that all lighting installations comply with building codes and regulations.
 
-RainbowLabs has a proven track record of delivering high-quality lighting solutions to architects and interior designers across a range of projects, from commercial buildings to residential spaces. Contact us today to learn more about our consultation and design services.
+Contact us today to learn more about our consultation and design services.
